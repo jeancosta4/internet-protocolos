@@ -23,7 +23,7 @@ Este repositório contém o material de aula para o curso de Desenvolvimento de 
 
 | Slides                   | Link                            |
 |--------------------------|---------------------------------|
-| Topologia de Redes e Modelo OSI               | [Introdução a Redes](internet-protocolos/InternetProcolos/Slides/introducao.pdf)   |
+| Topologia de Redes e Modelo OSI               | [Introdução a Redes](InternetProtocolos/Slides/introducao.pdf)   |
 | Protocolo SSH                | [ssh](Assets/ssh.md)     |
 | Protocolo FTP  | [FTP](Assets/ftp.md) |
 | Firewall               | [Firewall](Assets/firewall.md)   |
