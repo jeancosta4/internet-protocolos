@@ -23,12 +23,13 @@ Este repositório contém o material de aula para o curso de Desenvolvimento de 
 
 | Slides                   | Link                            |
 |--------------------------|---------------------------------|
-| Topologia de Redes e Modelo OSI               | [Introdução a Redes](InternetProtocolos/Slides/introducao.pdf)   |
-| Protocolo SSH                | [ssh](Assets/ssh.md)     |
-| Protocolo FTP  | [FTP](Assets/ftp.md) |
-| Firewall               | [Firewall](Assets/firewall.md)   |
-| Proxy Reverso          | [ProxyReverso](Assets/proxyreverso.md) |
-| Virtual Private Network           | [VPN](Assets/vpn.md) |
+| Introdução               | [Introdução a Redes](InternetProtocolos/Slides/introducao.pdf)   |
+| Protocolo SSH                | [ssh]((InternetProtocolos/Slides/ssh.pdf)     |
+| Protocolo FTP  | [FTP]((InternetProtocolos/Slides/ftp.pdf) |
+| Modelo OSI               | [Modelo-OSI]((InternetProtocolos/Slides/osi.pdf)   |
+| Modelo TCP/IP          | [Modelo-TCP/IP]((InternetProtocolos/Slides/tcpip.pdf) |
+| Virtual Private Network           | [VPN]((InternetProtocolos/Slides/VPN.pdf) |
+| Endereçamento IPv4           | [Endereçamento-IPv4]((InternetProtocolos/Slides/ip.pdf) |
 
 
 </details>
