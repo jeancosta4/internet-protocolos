@@ -9,7 +9,8 @@ Este repositório contém o material de aula para o curso de Desenvolvimento de 
 - **Atividades**: Pasta com as atividades propostas para os alunos.
 - **Exercícios**: Pasta contendo os exercícios teóricos e práticos para os alunos resolverem.
 - **Material_de_Apoio**: Pasta com material de apoio para os alunos, como artigos, vídeos, etc.
-- **Referencias_Bibliograficas.md**: Arquivo com as referências bibliográficas utilizadas na criação do curso.
+- **Referencias_Bibliograficas**: Arquivo com as referências bibliográficas utilizadas na criação do curso.
+- **Branch**: Será criado uma branch para cada conteúdo abordado em sala de aula.
 
 ## Como Utilizar
 - Os arquivos de slides podem ser visualizados diretamente no GitHub ou baixados para uso offline.
