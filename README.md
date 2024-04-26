@@ -18,6 +18,22 @@ Este repositório contém o material de aula para o curso de Desenvolvimento de 
 - O material de apoio está disponível para consulta adicional e aprofundamento no tema.
 - As referências bibliográficas estão listadas para consulta e aprofundamento nos estudos.
 
+## Assuntos abordados em sala de aula
+<details>
+
+| Conteúdo abordado                   | Link                            |
+|--------------------------|---------------------------------|
+| Terminal Linux               | [Terminal-linux](Assets/terminal.md)   |
+| Protocolo SSH                | [ssh](Assets/ssh.md)     |
+| Protocolo FTP  | [FTP](Assets/ftp.md) |
+| Firewall               | [Firewall](Assets/firewall.md)   |
+| Proxy Reverso          | [ProxyReverso](Assets/proxyreverso.md) |
+| Virtual Private Network           | [VPN](Assets/vpn.md) |
+
+
+</details>
+
+
 ## Contribuição
 Contribuições para melhorar este material são bem-vindas! Se você encontrar erros, tiver sugestões de melhoria ou quiser adicionar mais recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
