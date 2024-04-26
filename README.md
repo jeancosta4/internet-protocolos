@@ -1,4 +1,4 @@
-# Protocolos e Internet (Prof. Jean Costa)
+# Internet e Protocolos (Prof. Jean Costa)
 
 ## Descrição
 Este repositório contém o material de aula para o curso de Desenvolvimento de Sistemas, Etec Ilza Nascimento Pintus, Componente curricular "Internet e Protocolos". Aqui você encontrará slides, atividades, exercícios, material de apoio e referências bibliográficas para auxiliar no aprendizado do tema.
@@ -61,5 +61,6 @@ Contribuições para melhorar este material são bem-vindas! Se você encontrar 
 </details>
 
 ## Autor
-Jean Costa
+- Prof.Jean Costa
+- E-mail: jeancosta12@etec.sp.gov.br
 
