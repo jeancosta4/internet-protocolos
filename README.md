@@ -62,6 +62,6 @@ Contribuições para melhorar este material são bem-vindas! Se você encontrar 
 </details>
 
 ## Autor
-- Prof.Jean Costa
+- Prof. Jean Costa
 - E-mail: jeancosta12@etec.sp.gov.br
 
