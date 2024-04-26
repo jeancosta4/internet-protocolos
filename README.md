@@ -18,6 +18,21 @@ Este repositório contém o material de aula para o curso de Desenvolvimento de 
 - O material de apoio está disponível para consulta adicional e aprofundamento no tema.
 - As referências bibliográficas estão listadas para consulta e aprofundamento nos estudos.
 
+## Slides de aula
+<details>
+
+| Slides                   | Link                            |
+|--------------------------|---------------------------------|
+| Topologia de Redes e Modelo OSI               | [Introdução a Redes](internet-protocolos/InternetProcolos/Slides/introducao.pdf)   |
+| Protocolo SSH                | [ssh](Assets/ssh.md)     |
+| Protocolo FTP  | [FTP](Assets/ftp.md) |
+| Firewall               | [Firewall](Assets/firewall.md)   |
+| Proxy Reverso          | [ProxyReverso](Assets/proxyreverso.md) |
+| Virtual Private Network           | [VPN](Assets/vpn.md) |
+
+
+</details>
+
 ## Assuntos abordados em sala de aula
 <details>
 
