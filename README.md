@@ -22,11 +22,11 @@ Contribuições para melhorar este material são bem-vindas! Se você encontrar 
 
 ## Bases Tecnológicas
 <details>
-- Tópicos de redes de computadores
-    • Meios de transmissão, adaptadores e endereçamento físico;
-    • Modelo TCP/IP;
-    • Modelo cliente/servidor.
-- Protocolos da Internet
+### Tópicos de redes de computadores
+- Meios de transmissão, adaptadores e endereçamento físico;
+- Modelo TCP/IP;
+- Modelo cliente/servidor.
+### Protocolos da Internet
     • Internet Protocol (IP);
     • Endereçamento lógico, roteamento e NAT;
     • TCP/UDP, portas e sockets;
