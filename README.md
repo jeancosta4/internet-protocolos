@@ -22,41 +22,42 @@ Contribuições para melhorar este material são bem-vindas! Se você encontrar 
 
 ## Bases Tecnológicas
 <details>
+
 ### Tópicos de redes de computadores
 - Meios de transmissão, adaptadores e endereçamento físico;
 - Modelo TCP/IP;
 - Modelo cliente/servidor.
 ### Protocolos da Internet
-    • Internet Protocol (IP);
-    • Endereçamento lógico, roteamento e NAT;
-    • TCP/UDP, portas e sockets;
-    • Proxy e proxy reverso;
-    • Serviços de nomes (DNS);
-    • Transferência de arquivos (FTP) e terminal remoto (SSH).
-- Laboratório de ferramentas para redes
-    • Hostname, nbtstat, ipconfig, getmac e ping;
-    • Net, netstat, netsh e arp;
-    • Tracert, route, pathping e nslookup;
-    • Wireshark.
-- Aplicações na World Wide Web
-    • Clientes (user-agent) e servidores HTTP;
-    • Infraestrutura própria (on-premise) e em nuvem (cloud);
-    • Evolução do HTTP.
-- Protocolo HTTP
-    • URI, fluxo HTTP, requisição e resposta;
-    • Métodos;
-    • Cabeçalho e corpo;
-    • Códigos de status;
-    • Stateless e sessões;
-    • Cookies;
-    • MIME types;
-    • Autenticação;
-    • HTTPS, SSL e TLS;
-- Laboratório de HTTP
-    • Configuração básica de servidor HTTP;
-    • Ferramentas de navegador para desenvolvedores:
-    • rede, fontes, aplicação/armazenamento, segurança.
-    • Clientes HTTP especializados para APIs (Insomnia, Postman entre outros).
+- Internet Protocol (IP);
+- Endereçamento lógico, roteamento e NAT;
+- TCP/UDP, portas e sockets;
+- Proxy e proxy reverso;
+- Serviços de nomes (DNS);
+- Transferência de arquivos (FTP) e terminal remoto (SSH).
+### Laboratório de ferramentas para redes
+- Hostname, nbtstat, ipconfig, getmac e ping;
+- Net, netstat, netsh e arp;
+- Tracert, route, pathping e nslookup;
+- Wireshark.
+### Aplicações na World Wide Web
+- Clientes (user-agent) e servidores HTTP;
+- Infraestrutura própria (on-premise) e em nuvem (cloud);
+- Evolução do HTTP.
+### Protocolo HTTP
+- URI, fluxo HTTP, requisição e resposta;
+- Métodos;
+- Cabeçalho e corpo;
+- Códigos de status;
+- Stateless e sessões;
+- Cookies;
+- MIME types;
+- Autenticação;
+- HTTPS, SSL e TLS;
+### Laboratório de HTTP
+- Configuração básica de servidor HTTP;
+- Ferramentas de navegador para desenvolvedores:
+- rede, fontes, aplicação/armazenamento, segurança.
+- Clientes HTTP especializados para APIs (Insomnia, Postman entre outros).
 </details>
 
 ## Autor
