@@ -24,12 +24,12 @@ Este repositório contém o material de aula para o curso de Desenvolvimento de 
 | Slides                   | Link                            |
 |--------------------------|---------------------------------|
 | Introdução               | [Introdução a Redes](InternetProtocolos/Slides/introducao.pdf)   |
-| Protocolo SSH                | [ssh]((InternetProtocolos/Slides/ssh.pdf)     |
-| Protocolo FTP  | [FTP]((InternetProtocolos/Slides/ftp.pdf) |
-| Modelo OSI               | [Modelo-OSI]((InternetProtocolos/Slides/osi.pdf)   |
-| Modelo TCP/IP          | [Modelo-TCP/IP]((InternetProtocolos/Slides/tcpip.pdf) |
-| Virtual Private Network           | [VPN]((InternetProtocolos/Slides/VPN.pdf) |
-| Endereçamento IPv4           | [Endereçamento-IPv4]((InternetProtocolos/Slides/ip.pdf) |
+| Protocolo SSH                | [ssh](InternetProtocolos/Slides/ssh.pdf)     |
+| Protocolo FTP  | [FTP](InternetProtocolos/Slides/ftp.pdf) |
+| Modelo OSI               | [Modelo-OSI](InternetProtocolos/Slides/osi.pdf)   |
+| Modelo TCP/IP          | [Modelo-TCP/IP](InternetProtocolos/Slides/tcpip.pdf) |
+| Virtual Private Network           | [VPN](InternetProtocolos/Slides/VPN.pdf) |
+| Endereçamento IPv4           | [Endereçamento-IPv4](InternetProtocolos/Slides/ip.pdf) |
 
 
 </details>
